@@ -1,0 +1,54 @@
+com.ezra.firebase.app-runtime-release-0 C:\Users\ADMIN\.gradle\caches\transforms-3\09d7c36c1456560c20d46642d7e79dab\transformed\runtime-release\res
+com.ezra.firebase.app-material-icons-core-1.4.0-1 C:\Users\ADMIN\.gradle\caches\transforms-3\0bb037c65be97d72de9e6a2ebec54288\transformed\material-icons-core-1.4.0\res
+com.ezra.firebase.app-lifecycle-process-2.6.2-2 C:\Users\ADMIN\.gradle\caches\transforms-3\0bcf8766df9ad6a167015ea409103c99\transformed\lifecycle-process-2.6.2\res
+com.ezra.firebase.app-activity-1.8.0-3 C:\Users\ADMIN\.gradle\caches\transforms-3\1680080e3bdb56a2fb2d5b14a6f66011\transformed\activity-1.8.0\res
+com.ezra.firebase.app-savedstate-1.2.1-4 C:\Users\ADMIN\.gradle\caches\transforms-3\177be59f55b6e05524e5da1e18a35a4a\transformed\savedstate-1.2.1\res
+com.ezra.firebase.app-foundation-layout-release-5 C:\Users\ADMIN\.gradle\caches\transforms-3\1a59e5fd45faa9520ac8dad58645150f\transformed\foundation-layout-release\res
+com.ezra.firebase.app-lifecycle-livedata-core-2.6.2-6 C:\Users\ADMIN\.gradle\caches\transforms-3\1ddddaa02a759da2374591456ea4ddbd\transformed\lifecycle-livedata-core-2.6.2\res
+com.ezra.firebase.app-animation-release-7 C:\Users\ADMIN\.gradle\caches\transforms-3\2207a5e7ee2d39a52fd78288dbca5803\transformed\animation-release\res
+com.ezra.firebase.app-lifecycle-viewmodel-2.6.2-8 C:\Users\ADMIN\.gradle\caches\transforms-3\26fb80b6048d5540a50f8c6e2f9bd88b\transformed\lifecycle-viewmodel-2.6.2\res
+com.ezra.firebase.app-material-ripple-1.4.0-9 C:\Users\ADMIN\.gradle\caches\transforms-3\317e01263985157284af09b091869a5a\transformed\material-ripple-1.4.0\res
+com.ezra.firebase.app-appcompat-resources-1.6.1-10 C:\Users\ADMIN\.gradle\caches\transforms-3\31b9a99a1b5649f50b13e9bbb855870a\transformed\appcompat-resources-1.6.1\res
+com.ezra.firebase.app-ui-release-11 C:\Users\ADMIN\.gradle\caches\transforms-3\31c7cb24ac53f01d5409d98a689ac800\transformed\ui-release\res
+com.ezra.firebase.app-ui-tooling-data-release-12 C:\Users\ADMIN\.gradle\caches\transforms-3\3a6b3b118fb157772f6ca4d1b486e4e3\transformed\ui-tooling-data-release\res
+com.ezra.firebase.app-savedstate-ktx-1.2.1-13 C:\Users\ADMIN\.gradle\caches\transforms-3\3a9657183cd8c3f8d8cd822563205d19\transformed\savedstate-ktx-1.2.1\res
+com.ezra.firebase.app-ui-tooling-release-14 C:\Users\ADMIN\.gradle\caches\transforms-3\403e493e30ba9b135e5eb9d4fb1baf73\transformed\ui-tooling-release\res
+com.ezra.firebase.app-play-services-base-18.1.0-15 C:\Users\ADMIN\.gradle\caches\transforms-3\430ceeccc3da2cbf1958b5853572f885\transformed\play-services-base-18.1.0\res
+com.ezra.firebase.app-animation-core-release-16 C:\Users\ADMIN\.gradle\caches\transforms-3\4777d2341ef74c108fe036b2e8609234\transformed\animation-core-release\res
+com.ezra.firebase.app-core-1.12.0-17 C:\Users\ADMIN\.gradle\caches\transforms-3\49ed979081d69942d0914e59af9fb785\transformed\core-1.12.0\res
+com.ezra.firebase.app-core-ktx-1.12.0-18 C:\Users\ADMIN\.gradle\caches\transforms-3\4a7016d99588bdfc70e8b854d3ce6c0d\transformed\core-ktx-1.12.0\res
+com.ezra.firebase.app-lifecycle-viewmodel-ktx-2.6.2-19 C:\Users\ADMIN\.gradle\caches\transforms-3\4cf6e55f316d8ff566ef4f7736f1844c\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.ezra.firebase.app-ui-tooling-preview-release-20 C:\Users\ADMIN\.gradle\caches\transforms-3\542325e634419006274bcaf4f7f4a2aa\transformed\ui-tooling-preview-release\res
+com.ezra.firebase.app-material3-1.0.0-21 C:\Users\ADMIN\.gradle\caches\transforms-3\5cc2a8600cfe084f4719218d4e11dd08\transformed\material3-1.0.0\res
+com.ezra.firebase.app-play-services-basement-18.1.0-22 C:\Users\ADMIN\.gradle\caches\transforms-3\5dad5885d3ed4650d7846be51d9362ff\transformed\play-services-basement-18.1.0\res
+com.ezra.firebase.app-customview-poolingcontainer-1.0.0-23 C:\Users\ADMIN\.gradle\caches\transforms-3\61893a6d63904ecd6fdefdc42b2ed7e4\transformed\customview-poolingcontainer-1.0.0\res
+com.ezra.firebase.app-profileinstaller-1.3.1-24 C:\Users\ADMIN\.gradle\caches\transforms-3\664ddae9f4e0082a0b00a49e717d53a4\transformed\profileinstaller-1.3.1\res
+com.ezra.firebase.app-core-runtime-2.2.0-25 C:\Users\ADMIN\.gradle\caches\transforms-3\6bea397e30b768e9271c7f056ce165f2\transformed\core-runtime-2.2.0\res
+com.ezra.firebase.app-ui-graphics-release-26 C:\Users\ADMIN\.gradle\caches\transforms-3\6f3af1feffb603fad095daea9e5e6885\transformed\ui-graphics-release\res
+com.ezra.firebase.app-ui-text-release-27 C:\Users\ADMIN\.gradle\caches\transforms-3\77d0f32123b91c482d4c8aba3c3b4b22\transformed\ui-text-release\res
+com.ezra.firebase.app-annotation-experimental-1.3.0-28 C:\Users\ADMIN\.gradle\caches\transforms-3\894980d90f92b02dcc3b797046463622\transformed\annotation-experimental-1.3.0\res
+com.ezra.firebase.app-activity-compose-1.8.0-29 C:\Users\ADMIN\.gradle\caches\transforms-3\8ee9cc49402c45b9caef84d0f0a49d26\transformed\activity-compose-1.8.0\res
+com.ezra.firebase.app-lifecycle-livedata-2.6.2-30 C:\Users\ADMIN\.gradle\caches\transforms-3\9553e160a93bf193d4bd8c23f3ba3e89\transformed\lifecycle-livedata-2.6.2\res
+com.ezra.firebase.app-lifecycle-runtime-2.6.2-31 C:\Users\ADMIN\.gradle\caches\transforms-3\97890c59fd40188c55b4801cbad1c846\transformed\lifecycle-runtime-2.6.2\res
+com.ezra.firebase.app-lifecycle-runtime-ktx-2.6.2-32 C:\Users\ADMIN\.gradle\caches\transforms-3\a635dc947736da28e49eef7b4652440c\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.ezra.firebase.app-foundation-release-33 C:\Users\ADMIN\.gradle\caches\transforms-3\b0b3703c5f4eee59cfef89d3e6403f41\transformed\foundation-release\res
+com.ezra.firebase.app-coordinatorlayout-1.0.0-34 C:\Users\ADMIN\.gradle\caches\transforms-3\c1af61c4263a9ace819ed2102d444fcd\transformed\coordinatorlayout-1.0.0\res
+com.ezra.firebase.app-ui-unit-release-35 C:\Users\ADMIN\.gradle\caches\transforms-3\c7817f973cc18354037ab19652344d5f\transformed\ui-unit-release\res
+com.ezra.firebase.app-ui-test-manifest-1.5.4-36 C:\Users\ADMIN\.gradle\caches\transforms-3\ca20c1f96ea2e9b7b421022df1ff11a4\transformed\ui-test-manifest-1.5.4\res
+com.ezra.firebase.app-runtime-saveable-release-37 C:\Users\ADMIN\.gradle\caches\transforms-3\ce124e8ad784033e2eaea6aad802c01d\transformed\runtime-saveable-release\res
+com.ezra.firebase.app-lifecycle-viewmodel-savedstate-2.6.2-38 C:\Users\ADMIN\.gradle\caches\transforms-3\d5db36557c6b535daad570fe34e4946a\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.ezra.firebase.app-coil-base-2.5.0-39 C:\Users\ADMIN\.gradle\caches\transforms-3\de030307c3e06dfe0b3b9e95724bf384\transformed\coil-base-2.5.0\res
+com.ezra.firebase.app-startup-runtime-1.1.1-40 C:\Users\ADMIN\.gradle\caches\transforms-3\e195db89f951374d21b76663ebab7fad\transformed\startup-runtime-1.1.1\res
+com.ezra.firebase.app-firebase-common-20.4.2-41 C:\Users\ADMIN\.gradle\caches\transforms-3\eff68e43e7415aa2748d5e3a35409d42\transformed\firebase-common-20.4.2\res
+com.ezra.firebase.app-ui-util-release-42 C:\Users\ADMIN\.gradle\caches\transforms-3\f092ba9a3897ba9af887afd3b9caf351\transformed\ui-util-release\res
+com.ezra.firebase.app-material-1.4.0-43 C:\Users\ADMIN\.gradle\caches\transforms-3\fc6df34cc26463d92aa7c57ba32a6e59\transformed\material-1.4.0\res
+com.ezra.firebase.app-emoji2-1.4.0-44 C:\Users\ADMIN\.gradle\caches\transforms-3\fd2896f8e8e494f752a640c8b0efd835\transformed\emoji2-1.4.0\res
+com.ezra.firebase.app-ui-geometry-release-45 C:\Users\ADMIN\.gradle\caches\transforms-3\fedd10be1ebcf94dd8d6cefc3add4fbd\transformed\ui-geometry-release\res
+com.ezra.firebase.app-activity-ktx-1.8.0-46 C:\Users\ADMIN\.gradle\caches\transforms-3\ff5e38149d91f9b772df42a64e42ebf7\transformed\activity-ktx-1.8.0\res
+com.ezra.firebase.app-res-47 C:\Users\ADMIN\Desktop\ICT CLUB 2\app\build\generated\res\processDebugGoogleServices
+com.ezra.firebase.app-resValues-48 C:\Users\ADMIN\Desktop\ICT CLUB 2\app\build\generated\res\resValues\debug
+com.ezra.firebase.app-packageDebugResources-49 C:\Users\ADMIN\Desktop\ICT CLUB 2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.ezra.firebase.app-packageDebugResources-50 C:\Users\ADMIN\Desktop\ICT CLUB 2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.ezra.firebase.app-merged_res-51 C:\Users\ADMIN\Desktop\ICT CLUB 2\app\build\intermediates\merged_res\debug
+com.ezra.firebase.app-debug-52 C:\Users\ADMIN\Desktop\ICT CLUB 2\app\src\debug\res
+com.ezra.firebase.app-main-53 C:\Users\ADMIN\Desktop\ICT CLUB 2\app\src\main\res

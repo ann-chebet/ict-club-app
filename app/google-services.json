@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297136075398",
+    "project_id": "ict-club-2",
+    "storage_bucket": "ict-club-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297136075398:android:f8ba981087030933639707",
+        "android_client_info": {
+          "package_name": "com.ezra.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZ6X82MUAjSArHL-GBLM3vhX5oR9f-no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
